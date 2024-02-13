@@ -4,5 +4,4 @@
 * 🌱 Learning: ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LewinGerber&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LewinGerber)](https://github.com/anuraghazra/github-readme-stats)
